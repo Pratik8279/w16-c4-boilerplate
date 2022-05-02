@@ -1,0 +1,5 @@
+export const GET_SUCCESS= "GET_SUCCESS";
+export const GET_REQUEST = "GET_REQUEST";
+export const GET_FAILURE = "GET_FAILURE";
+export const SORT_PRODUCTS = "SORT_PRODUCTS";
+export const FILTER_PRODUCTS = "FILTER_PRODUCTS";
